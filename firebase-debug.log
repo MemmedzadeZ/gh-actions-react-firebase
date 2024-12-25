@@ -1,0 +1,21 @@
+[debug] [2024-12-25T13:36:35.662Z] ----------------------------------------------------------------------
+[debug] [2024-12-25T13:36:35.675Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\НР\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-12-25T13:36:35.675Z] CLI Version:   13.29.1
+[debug] [2024-12-25T13:36:35.676Z] Platform:      win32
+[debug] [2024-12-25T13:36:35.676Z] Node Version:  v20.13.1
+[debug] [2024-12-25T13:36:35.676Z] Time:          Wed Dec 25 2024 17:36:35 GMT+0400 (Azerbaijan Standard Time)
+[debug] [2024-12-25T13:36:35.676Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-25T13:36:35.704Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-25T13:36:35.705Z] > authorizing via signed-in user (zehramemmedzade438@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\НР\OneDrive - Bureau on ICT for Education, Ministry of Education\Рабочий стол\gh-actions-react-firebase
+
