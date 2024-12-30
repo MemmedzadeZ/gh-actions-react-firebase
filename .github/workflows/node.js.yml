@@ -39,4 +39,4 @@ jobs:
     - name: Deploy to Firebase
       env:
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-      run: firebase deploy --only hosting --project "gh-actions-react-firebase"
+      run: firebase deploy --only hosting --project "gh-actions-react-firebas-d3f24"
