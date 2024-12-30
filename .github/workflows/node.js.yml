@@ -1,4 +1,3 @@
-
 name: Deploy React App to Firebase
 # Test 9
 on:
@@ -40,5 +39,4 @@ jobs:
     - name: Deploy to Firebase
       env:
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-      run: firebase deploy --only hosting --project "cicd2-d0b8d"
-
+      run: firebase deploy --only hosting --project "gh-actions-react-firebase"
